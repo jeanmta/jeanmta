@@ -29,10 +29,13 @@ Llevo **2 años** creando servidores en **MTA:SA**, y ahora estoy dando mis prim
 | 🏙️ **HIGH RP** | Servidor de roleplay en MTA:SA |
 | 🌐 **[Jean Traductor](https://github.com/jeanmta/jean_traductor)** | Herramienta de traducción |
 
-## 🏆 Trofeos
+## 📊 En números
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jeanmta&theme=algolia&no-frame=true&row=1&column=6" />
+
+<img src="https://img.shields.io/github/followers/jeanmta?label=Seguidores&style=for-the-badge&color=00D9FF&logo=github&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=jeanmta&label=Visitas+al+perfil&style=for-the-badge&color=F7DF1E" />
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
