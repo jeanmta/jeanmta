@@ -2,45 +2,32 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C2D72,100:F7DF1E&height=150&section=header&text=&fontSize=0" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+Jean+%F0%9F%91%8B;Lua+Developer+%F0%9F%9A%80;MTA:SA+Dev+%F0%9F%8E%AE" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Jean;Lua+Developer;MTA%3ASA+Dev" />
 
 <img src="https://skillicons.dev/icons?i=lua,html,css,js&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Estado-Aprendiendo%20cada%20d%C3%ADa-00D9FF?style=flat-square" />
 
 </div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-
-## 🕹️ Sobre mí
+## Sobre mí
 
 Llevo **2 años** creando servidores en **MTA:SA**, y ahora estoy dando mis primeros pasos en el mundo de la programación. Me apasionan los videojuegos y aprender cómo se construyen por dentro.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-
-## 📦 Proyectos
+## Proyectos
 
 | Proyecto | Descripción |
 |---|---|
-| 🏙️ **HIGH RP** | Servidor de roleplay en MTA:SA |
-| 🌐 **[Jean Traductor](https://github.com/jeanmta/jean_traductor)** | Herramienta de traducción |
+| **HIGH RP** | Servidor de roleplay en MTA:SA |
+| **[Jean Traductor](https://github.com/jeanmta/jean_traductor)** | Herramienta de traducción |
 
-## 📊 En números
+## Actividad
 
 <div align="center">
-
-<img src="https://img.shields.io/github/followers/jeanmta?label=Seguidores&style=for-the-badge&color=00D9FF&logo=github&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=jeanmta&label=Visitas+al+perfil&style=for-the-badge&color=F7DF1E" />
-
+<img src="https://raw.githubusercontent.com/jeanmta/jeanmta/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-
-## 🔗 Contacto
+## Contacto
 
 <div align="center">
 
