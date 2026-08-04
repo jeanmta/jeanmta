@@ -21,12 +21,6 @@ Llevo **2 años** creando servidores en **MTA:SA**, y ahora estoy dando mis prim
 | **HIGH RP** | Servidor de roleplay en MTA:SA |
 | **[Jean Traductor](https://github.com/jeanmta/jean_traductor)** | Herramienta de traducción |
 
-## Actividad
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/jeanmta/jeanmta/output/github-contribution-grid-snake.svg" width="100%" />
-</div>
-
 ## Contacto
 
 <div align="center">
