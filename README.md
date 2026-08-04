@@ -1,90 +1,39 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Jean&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Programador%20en%20aprendizaje%20%7C%20Lua%20Developer%20%7C%20MTA:SA&descAlignY=60&descSize=18" />
+<div align="center">
 
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/190197393?v=4" width="140" style="border-radius:50%" />
-</p>
+<img src="https://avatars.githubusercontent.com/u/190197393?v=4" width="110" style="border-radius:50%" />
 
-<br>
+# Hola, soy Jean 👋
 
-<table align="center">
-<tr>
-<td valign="top" width="55%">
+**Programador en aprendizaje** · Lua Developer · MTA:SA 🚀
 
-### 👦 ¿Quién soy?
-
-Soy **Jean**, estudiante y **aprendiz de programación**. Me apasionan los videojuegos, y desde hace **2 años** vengo creando servidores de **MTA:SA** — ahí fue donde empecé a meterme de lleno en el mundo del código.
-
-Ahora estoy dando mis primeros pasos más "serios" en programación, aprendiendo de a poco cómo funciona todo por detrás.
-
-```yaml
-nombre: Jean
-rol: Aprendiz de programación
-enfoque: Lua Developer
-proyecto: MTA:SA
-estado: "Aprendiendo cada día 🚀"
-```
-
-</td>
-<td valign="top" width="45%">
-
-### 🎯 En números
-
-| | |
-|---|---|
-| 🕹️ Años en MTA:SA | **2** |
-| 🌱 Nivel | Aprendiz |
-| 💬 Idioma | Español |
-| 📍 Enfoque actual | Lua |
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🧩 Stack
-
-<p align="center">
 <img src="https://skillicons.dev/icons?i=lua,html,css,js&theme=dark" />
-</p>
+
+</div>
 
 <br>
+
+## 🕹️ Sobre mí
+
+Llevo **2 años** creando servidores en **MTA:SA**, y ahora estoy dando mis primeros pasos en el mundo de la programación. Me apasionan los videojuegos y aprender cómo se construyen por dentro.
 
 ## 📦 Proyectos
 
-<table align="center">
-<tr>
-<td width="50%">
+| Proyecto | Descripción |
+|---|---|
+| 🏙️ **HIGH RP** | Servidor de roleplay en MTA:SA |
+| 🌐 **[Jean Traductor](https://github.com/jeanmta/jean_traductor)** | Herramienta de traducción |
 
-**🏙️ HIGH RP**
-Servidor de roleplay creado en MTA:SA.
+## 📊 Stats
 
-</td>
-<td width="50%">
-
-**🌐 [Jean Traductor](https://github.com/jeanmta/jean_traductor)**
-Herramienta de traducción.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 📈 Actividad
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jeanmta&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=10" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmta&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=10" width="30%" />
-</p>
-
-<br>
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=jeanmta&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="150" />
+</div>
 
 ## 🔗 Contacto
 
-<p align="center">
-<a href="https://www.youtube.com/@jean_oficiall2" target="_blank"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" /></a>
-<a href="https://discord.gg/YBpN6yEzE6" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" /></a>
-</p>
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" />
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jean_oficiall2)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YBpN6yEzE6)
+
+</div>
