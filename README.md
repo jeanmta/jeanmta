@@ -6,13 +6,21 @@
 
 <img src="https://skillicons.dev/icons?i=lua,html,css,js&theme=dark" />
 
+<br><br>
+
+<img src="https://img.shields.io/badge/Estado-Aprendiendo%20cada%20d%C3%ADa-00D9FF?style=flat-square" />
+
 </div>
 
 <br>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+
 ## 🕹️ Sobre mí
 
 Llevo **2 años** creando servidores en **MTA:SA**, y ahora estoy dando mis primeros pasos en el mundo de la programación. Me apasionan los videojuegos y aprender cómo se construyen por dentro.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
 ## 📦 Proyectos
 
@@ -21,11 +29,13 @@ Llevo **2 años** creando servidores en **MTA:SA**, y ahora estoy dando mis prim
 | 🏙️ **HIGH RP** | Servidor de roleplay en MTA:SA |
 | 🌐 **[Jean Traductor](https://github.com/jeanmta/jean_traductor)** | Herramienta de traducción |
 
-## 📊 Stats
+## 🏆 Trofeos
 
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=jeanmta&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="150" />
+<img src="https://github-profile-trophy.vercel.app/?username=jeanmta&theme=algolia&no-frame=true&row=1&column=6" />
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
 ## 🔗 Contacto
 
