@@ -1,67 +1,86 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Jean&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Programador%20en%20aprendizaje%20%7C%20Lua%20Developer%20%7C%20MTA:SA&descAlignY=60&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Jean+%F0%9F%91%8B;Aprendiz+de+programaci%C3%B3n+%F0%9F%92%BB;Creador+de+servidores+MTA+%F0%9F%8E%AE" alt="Typing SVG" />
+<br>
 
-</div>
+<table align="center">
+<tr>
+<td valign="top" width="55%">
 
-<div align="center">
+### 👦 ¿Quién soy?
 
-![Perfil](https://komarev.com/ghpvc/?username=jeanmta&label=Visitas%20al%20perfil&color=00D9FF&style=flat)
+Soy **Jean**, estudiante y **aprendiz de programación**. Me apasionan los videojuegos, y desde hace **2 años** vengo creando servidores de **MTA:SA** — ahí fue donde empecé a meterme de lleno en el mundo del código.
 
-</div>
+Ahora estoy dando mis primeros pasos más "serios" en programación, aprendiendo de a poco cómo funciona todo por detrás.
 
----
+```yaml
+nombre: Jean
+rol: Aprendiz de programación
+enfoque: Lua Developer
+proyecto: MTA:SA
+estado: "Aprendiendo cada día 🚀"
+```
 
-### 🎮 Sobre mí
+</td>
+<td valign="top" width="45%">
 
-- 🌱 Estudiante y aprendiz en programación — recién empezando este camino
-- 🕹️ Llevo **2 años** creando servidores en **MTA (Multi Theft Auto)**
-- ❤️ Me apasionan los videojuegos y todo lo relacionado a crearlos
-- 📚 Siempre aprendiendo algo nuevo
+### 🎯 En números
 
----
+| | |
+|---|---|
+| 🕹️ Años en MTA:SA | **2** |
+| 🌱 Nivel | Aprendiz |
+| 💬 Idioma | Español |
+| 📍 Enfoque actual | Lua |
 
-### 🚀 Proyectos Destacados
+</td>
+</tr>
+</table>
 
-- 🏙️ **HIGH RP** — Servidor de roleplay en MTA
-- 🌐 **[Jean Traductor](https://github.com/jeanmta/jean_traductor)** — Herramienta de traducción
+<br>
 
----
+## 🧩 Stack
 
-### 🛠️ Tecnologías
+<p align="center">
+<img src="https://skillicons.dev/icons?i=lua,html,css,js&theme=dark" />
+</p>
 
-<div align="center">
+<br>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+## 📦 Proyectos
 
-</div>
+<table align="center">
+<tr>
+<td width="50%">
 
----
+**🏙️ HIGH RP**
+Servidor de roleplay creado en MTA:SA.
 
-### 📊 Estadísticas de GitHub
+</td>
+<td width="50%">
 
-<div align="center">
+**🌐 [Jean Traductor](https://github.com/jeanmta/jean_traductor)**
+Herramienta de traducción.
 
-<img src="https://github-readme-stats.vercel.app/api?username=jeanmta&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanmta&theme=tokyonight&hide_border=true" width="48%" />
+</td>
+</tr>
+</table>
 
-</div>
+<br>
 
----
+## 📈 Actividad
 
-### 📬 Redes sociales
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jeanmta&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=10" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmta&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=10" width="30%" />
+</p>
 
-<div align="center">
+<br>
 
-<a href="https://www.youtube.com/@jean_oficiall2">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="https://discord.gg/YBpN6yEzE6">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
+## 🔗 Contacto
 
-</div>
+<p align="center">
+<a href="https://www.youtube.com/@jean_oficiall2" target="_blank"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" /></a>
+<a href="https://discord.gg/YBpN6yEzE6" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" />
