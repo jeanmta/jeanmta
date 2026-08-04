@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/190197393?v=4" width="110" style="border-radius:50%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C2D72,100:F7DF1E&height=150&section=header&text=&fontSize=0" />
 
-# Hola, soy Jean 👋
-
-**Programador en aprendizaje** · Lua Developer · MTA:SA 🚀
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+Jean+%F0%9F%91%8B;Lua+Developer+%F0%9F%9A%80;MTA:SA+Dev+%F0%9F%8E%AE" />
 
 <img src="https://skillicons.dev/icons?i=lua,html,css,js&theme=dark" />
 
@@ -37,3 +35,5 @@ Llevo **2 años** creando servidores en **MTA:SA**, y ahora estoy dando mis prim
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YBpN6yEzE6)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7DF1E,100:2C2D72&height=120&section=footer" />
